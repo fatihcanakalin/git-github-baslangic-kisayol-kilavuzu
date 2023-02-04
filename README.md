@@ -40,7 +40,7 @@
 
 - **Repo:** Git tarafından izlenen dosya ve dizinlerin bir koleksiyonu.
 
-- **Commit:** Git deposundaki kaydedilmiş değişikliklerin bir seti.
+- **Commit:** Git reposundaki kaydedilmiş değişikliklerin bir seti.
 
 - **Branch:** Aynı projeyi aynı anda birden çok kişinin çalışmasına izin veren kod tabanının ayrı bir versiyonu.
 
