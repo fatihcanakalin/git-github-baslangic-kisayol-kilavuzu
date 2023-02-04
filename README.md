@@ -24,7 +24,7 @@
 
 **git pull:** Uzak repodan değişiklikleri getirir ve birleştirir
 
-**git push [remote_name] [branch_name]:** Lokal branch'daki değişiklikleri uzak repodan yollar
+**git push [remote_name] [branch_name]:** Lokal branch'daki değişiklikleri uzak repoya yollar
 
 ## Github Komutları
 
